@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 You can contact me at [My Wesite](bit.ly/ujjwalgupta)
+- 👨‍💻 You can contact me at [My Wesite](https://bit.ly/ujjwalgupta)
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
