@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/ujjwalgupta](https://bit.ly/ujjwalgupta)
+- 👨‍💻 All of my projects are available at [My Website](https://bit.ly/ujjwalgupta)
 
 - 💬 Ask me about **JavaScript, UI & UX**
 
-- 📫 How to reach me **guptaxujjwal@gmail.com**
+- 📫 How to reach me **[Email](guptaxujjwal@gmail.com)**
 
 - ⚡ Fun fact **The more you explore me, the more you know how chaotic I am!**
 
